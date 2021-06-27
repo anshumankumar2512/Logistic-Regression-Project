@@ -1,0 +1,2 @@
+# Logistic-Regression-Project
+### This is a simple implementation of Logistic Regression as a classifier on the Titanic dataset. Given a training_ data csv file with X_ train and Y_ train data, and a test_ data file with X_ test, this script deploys logistic regression to predict Y_test. The predictions are then stored in a csv file.
